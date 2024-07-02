@@ -1,0 +1,50 @@
+.navbar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 1000;
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+    align-items: start;
+    width: 1130px;
+    height: 54px;
+    margin: auto;
+   
+    gap: 300px;
+    padding: 1rem 2rem;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+
+.navigation{
+    display: flex;
+    gap: 50px;
+
+
+
+}
+.navigation a:hover{
+    color: rgb(96, 20, 141);
+    text-decoration:aliceblue;
+    font-size: 1rem;
+    font-weight: 500;
+}
+
+#logo {
+    height: 39px;
+    width: 156px;
+}
+
+.login-button{
+    border-radius: 30px;
+    height: 40px;
+    width: 60px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+    background: #DCB0FE;
+    font: optional;
+    font-weight: 600;
+
+    
+}

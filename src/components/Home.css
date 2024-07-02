@@ -1,0 +1,17 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 150px;
+
+  
+}
+  
+  #homeimage {
+    width: 1114.69px;
+    height: 502px;
+    margin-top: auto;
+    opacity: 0px;
+  
+  
+  }

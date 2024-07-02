@@ -1,0 +1,28 @@
+.aboutuscontainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: whitesmoke;
+    height: 700px;
+
+
+}
+
+#abtimg {
+    height: 200px;
+    width: 200px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+#abtfeature {
+    width: 300px;
+    height: 150px;
+    top: 126px;
+    left: 680px;
+    opacity: 0px;
+
+}
